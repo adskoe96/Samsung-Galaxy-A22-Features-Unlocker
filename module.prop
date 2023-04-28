@@ -1,6 +1,6 @@
 id=adsk-dev
-name=Samsung AOD Clock transition.
+name=Samsung Features Unlocker (A22)
 version=v1.0.0
 versionCode=20
 author=adsk-dev
-description=This module turns on AOD clock transition on Samsung Devices.
+description=This module unlocks for you: screen recording, clock transition, and a couple of other restrictions. (Working on Samsung A22 with One UI 3-4, tested on One UI 4)
